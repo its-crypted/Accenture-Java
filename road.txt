@@ -1,0 +1,46 @@
+Write a java program to demonstrate the road signaling with default as 'prepare to go' operation.
+
+Assume red for 'stop', green for 'go', and yellow for 'proceed with caution'.
+
+Sample Input 1:
+
+Enter the color
+
+green
+
+Sample Output 1:
+
+go
+
+
+Sample Input 2:
+
+Enter the color
+
+red
+
+Sample Output 2:
+
+stop
+
+
+Sample Input 3:
+
+Enter the color
+
+yellow
+
+Sample Output 3:
+
+proceed with caution
+
+
+Sample Input 4:
+
+Enter the color
+
+white
+
+Sample Output 4:
+
+prepare to go
