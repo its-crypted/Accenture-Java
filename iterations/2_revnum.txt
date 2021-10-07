@@ -1,0 +1,11 @@
+Harry and Amy were playing a game. Harry would give out number, and Amy has to reverse the given number. Help Amy by writing java program to reverse the number.
+
+Sample Input 1
+
+Enter the number
+
+61987
+
+Sample Output 1
+
+78916
