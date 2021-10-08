@@ -1,0 +1,15 @@
+Nirmal wants to know the palindrome numbers between the given range of numbers. Help him by writing a java program to find the palindrome numbers.
+
+Sample Input 1
+
+Enter the starting range
+
+78
+
+Enter the ending range
+
+100
+
+Sample Output 1
+
+88 99
