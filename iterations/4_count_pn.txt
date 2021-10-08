@@ -1,0 +1,15 @@
+Nancy wanted to check her son with the count of prime numbers between the given range. Help Nancy by writing a java program to find the count of prime numbers.
+
+Sample Input 1
+
+Enter starting range
+
+67
+
+Enter ending range
+
+90
+
+Sample Output 1
+
+6
