@@ -1,0 +1,9 @@
+Willams wanted to find the prime factorization of the given number. Help him by writing a java program to find the factors of a number in terms of prime numbers.
+
+Sample Input 1
+
+315
+
+Sample Output 1
+
+3 3 5 7
